@@ -1,0 +1,14 @@
+{
+  "week": 8,
+  "title": "后端开发 - Python",
+  "description": "学习FastAPI和Python后端开发",
+  "days": [
+    { "day": 1, "title": "FastAPI入门", "content": ["FastAPI特点", "创建第一个API", "自动文档"], "resources": [] },
+    { "day": 2, "title": "路径操作与参数", "content": ["路径参数", "查询参数", "请求体"], "resources": [] },
+    { "day": 3, "title": "Pydantic模型", "content": ["数据验证", "模型定义", "<span class=\"text-red-bold\">重点</span>: 类型提示"], "resources": [] },
+    { "day": 4, "title": "数据库集成", "content": ["SQLAlchemy使用", "CRUD操作", "关系映射"], "resources": [] },
+    { "day": 5, "title": "依赖注入", "content": ["Depends概念", "依赖复用", "认证依赖"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["回顾内容"], "resources": [] },
+    { "day": 7, "title": "FastAPI项目实践", "content": ["构建完整后端服务", "API测试"], "resources": [] }
+  ]
+}

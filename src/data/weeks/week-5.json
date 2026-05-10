@@ -1,0 +1,14 @@
+{
+  "week": 5,
+  "title": "Vue3基础",
+  "description": "学习Vue3核心概念和Composition API",
+  "days": [
+    { "day": 1, "title": "Vue3简介", "content": ["Vue3新特性", "与Vue2的区别", "创建第一个Vue应用"], "resources": [] },
+    { "day": 2, "title": "模板语法", "content": ["插值、指令", "事件处理", "表单绑定"], "resources": [] },
+    { "day": 3, "title": "组件基础", "content": ["组件定义与注册", "Props与Events", "<span class=\"text-red-bold\">重点</span>: 组件通信"], "resources": [] },
+    { "day": 4, "title": "Composition API", "content": ["setup函数", "ref与reactive", "computed与watch"], "resources": [] },
+    { "day": 5, "title": "生命周期与hooks", "content": ["生命周期钩子", "自定义hooks"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["复习与练习"], "resources": [] },
+    { "day": 7, "title": "Vue组件实战", "content": ["编写可复用组件", "小项目练习"], "resources": [] }
+  ]
+}

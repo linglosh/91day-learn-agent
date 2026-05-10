@@ -1,0 +1,14 @@
+{
+  "week": 13,
+  "title": "部署与上线",
+  "description": "学习部署流程和项目上线",
+  "days": [
+    { "day": 1, "title": "部署准备", "content": ["生产环境配置", "环境变量", "依赖管理"], "resources": [] },
+    { "day": 2, "title": "前端部署", "content": ["静态资源构建", "CDN配置", "GitHub Pages/Vercel"], "resources": [] },
+    { "day": 3, "title": "后端部署", "content": ["服务器选择", "Docker容器化", "进程管理"], "resources": [] },
+    { "day": 4, "title": "CI/CD", "content": ["GitHub Actions", "自动化部署", "<span class=\"text-red-bold\">重点</span>: 流水线配置"], "resources": [] },
+    { "day": 5, "title": "监控与维护", "content": ["日志收集", "性能监控", "告警机制"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["项目展示准备"], "resources": [] },
+    { "day": 7, "title": "总结与展望", "content": ["13周回顾", "后续学习方向", "项目展示与分享"], "resources": [] }
+  ]
+}

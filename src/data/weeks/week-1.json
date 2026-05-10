@@ -1,0 +1,64 @@
+{
+  "week": 1,
+  "title": "Agent基础概念",
+  "description": "了解Agent是什么，学习核心概念和基本架构",
+  "days": [
+    {
+      "day": 1,
+      "title": "什么是Agent",
+      "content": [
+        "<span class=\"text-red-bold\">学习目标</span>: 理解Agent的基本定义和核心特征",
+        "阅读材料：Agent入门教程第一章",
+        "思考：Agent与传统程序的区别"
+      ],
+      "resources": [
+        { "title": "Agent官方文档", "url": "https://example.com/agent-docs" },
+        { "title": "入门视频教程", "url": "https://example.com/agent-video" }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Agent核心组件",
+      "content": [
+        "<span class=\"text-red-bold\">学习目标</span>: 掌握Agent的核心组成部分",
+        "学习感知模块、推理模块、行动模块",
+        "理解各模块之间的交互方式"
+      ],
+      "resources": [
+        { "title": "组件详解", "url": "https://example.com/components" }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Agent架构类型",
+      "content": [
+        "学习常见的Agent架构：反应式、 deliberative、混合式",
+        "<span class=\"text-red-bold\">重点掌握</span>：混合式架构的优势",
+        "分析不同架构的适用场景"
+      ],
+      "resources": []
+    },
+    {
+      "day": 4,
+      "title": "环境建模",
+      "content": [
+        "理解Agent所处的环境类型",
+        "学习环境的可观察性、确定性、 episodic性",
+        "练习：为简单应用建模环境"
+      ],
+      "resources": []
+    },
+    {
+      "day": 5,
+      "title": "第1周总结与实践",
+      "content": [
+        "回顾本周学习内容",
+        "<span class=\"text-red-bold\">实践任务</span>: 设计一个简单Agent的架构",
+        "记录学习笔记"
+      ],
+      "resources": []
+    },
+    { "day": 6, "title": "休息与回顾", "content": ["复习本周内容", "整理笔记"], "resources": [] },
+    { "day": 7, "title": "拓展阅读", "content": ["阅读相关论文或博客", "参与社区讨论"], "resources": [] }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "week": 3,
+  "title": "Python编程基础",
+  "description": "掌握Python核心语法和数据结构",
+  "days": [
+    { "day": 1, "title": "Python基础语法", "content": ["变量、数据类型、运算符", "控制流程语句", "<span class=\"text-red-bold\">重点</span>: 缩进规则"], "resources": [] },
+    { "day": 2, "title": "数据结构", "content": ["列表、字典、元组、集合", "常用操作方法"], "resources": [] },
+    { "day": 3, "title": "函数与模块", "content": ["函数定义与调用", "参数传递", "模块导入"], "resources": [] },
+    { "day": 4, "title": "面向对象编程", "content": ["类与对象", "继承与多态", "<span class=\"text-red-bold\">重点</span>: 理解面向对象思想"], "resources": [] },
+    { "day": 5, "title": "Python实战练习", "content": ["编写小型工具脚本", "应用所学知识"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["复习本周内容"], "resources": [] },
+    { "day": 7, "title": "算法入门", "content": ["学习简单算法", "LeetCode简单题"], "resources": [] }
+  ]
+}

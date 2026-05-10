@@ -1,0 +1,51 @@
+[
+  {
+    "category": "官方核心文档",
+    "icon": "📖",
+    "items": [
+      { "title": "OpenAI Building Effective Agents 官方指南", "url": "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf", "description": "OpenAI官方出品的Agent构建实践指南" },
+      { "title": "OpenAI Agent Python SDK", "url": "https://openai.github.io/openai-agents-python/", "description": "OpenAI官方Agent开发SDK文档" },
+      { "title": "OpenAI Tool Use 官方指南", "url": "https://platform.openai.com/docs/guides/function-calling", "description": "Function Calling函数调用官方指南" },
+      { "title": "Anthropic Agent规划与反思", "url": "https://www.anthropic.com/research", "description": "Anthropic官方Agent研究博客" },
+      { "title": "LangChain官方文档", "url": "https://www.langchain.com/docs", "description": "最完整的LangChain学习文档" },
+      { "title": "LangGraph官方教程", "url": "https://www.langchain.com/langgraph", "description": "LangGraph工作流编排教程" },
+      { "title": "AutoGen官方文档", "url": "https://microsoft.github.io/autogen/", "description": "微软AutoGen多Agent框架" },
+      { "title": "CrewAI官方文档", "url": "https://docs.crewai.com/", "description": "CrewAI角色Agent框架文档" },
+      { "title": "LlamaIndex官方文档", "url": "https://docs.llamaindex.ai/", "description": "LlamaIndex RAG框架文档" }
+    ]
+  },
+  {
+    "category": "精品免费课程",
+    "icon": "🎓",
+    "items": [
+      { "title": "Hugging Face Agent 中文课程", "url": "https://huggingface.co/learn/agents-course/zh-CN", "description": "Hugging Face官方出品的Agent中文免费课程" },
+      { "title": "吴恩达 Agent 系列短课", "url": "https://www.deeplearning.ai/short-courses/", "description": "吴恩达老师带来的Agent设计系列短课" }
+    ]
+  },
+  {
+    "category": "GitHub优质资源",
+    "icon": "⚡",
+    "items": [
+      { "title": "awesome-ai-agents (300+资源)", "url": "https://github.com/slavakurilyak/awesome-ai-agents", "description": "最全的AI Agent资源合集，包含300+优质资源" },
+      { "title": "OpenAI Agents Python 开源", "url": "https://github.com/openai/openai-agents-python", "description": "OpenAI官方Agent SDK开源仓库" }
+    ]
+  },
+  {
+    "category": "国内学习社区",
+    "icon": "🏠",
+    "items": [
+      { "title": "稀土掘金 Agent专题", "url": "https://juejin.cn/tag/Agent", "description": "国内最活跃的Agent学习社区" },
+      { "title": "CSDN AI Agent板块", "url": "https://www.csdn.net/", "description": "CSDN AI学习板块" },
+      { "title": "知乎 Agent学习专栏", "url": "https://www.zhihu.com/", "description": "知乎AI Agent讨论区" },
+      { "title": "机器之心 AI Agent专题", "url": "https://www.jiqizhixin.com/", "description": "机器之心AI Agent专业报道" }
+    ]
+  },
+  {
+    "category": "国外学习平台",
+    "icon": "🌍",
+    "items": [
+      { "title": "GitHub 开发者社区", "url": "https://github.com/", "description": "全球最大代码托管平台" },
+      { "title": "Hugging Face 社区", "url": "https://huggingface.co/", "description": "AI模型与数据集社区" }
+    ]
+  }
+]

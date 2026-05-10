@@ -1,0 +1,14 @@
+{
+  "week": 2,
+  "title": "开发环境搭建",
+  "description": "配置Python/Node.js开发环境，熟悉IDE和工具链",
+  "days": [
+    { "day": 1, "title": "Python环境配置", "content": ["安装Python 3.10+", "配置pip和虚拟环境", "<span class=\"text-red-bold\">重点</span>: 理解虚拟环境的重要性"], "resources": [{ "title": "Python官网", "url": "https://python.org" }] },
+    { "day": 2, "title": "Node.js环境配置", "content": ["安装Node.js和npm", "了解包管理基础", "配置开发工具"], "resources": [] },
+    { "day": 3, "title": "IDE选择与配置", "content": ["VSCode安装与配置", "安装必要插件", "配置代码风格"], "resources": [] },
+    { "day": 4, "title": "Git与版本控制", "content": ["Git基础命令", "GitHub仓库管理", "<span class=\"text-red-bold\">实践</span>: 创建第一个仓库"], "resources": [] },
+    { "day": 5, "title": "环境测试与验证", "content": ["运行测试项目", "验证所有工具正常工作", "记录常见问题"], "resources": [] },
+    { "day": 6, "title": "休息与回顾", "content": ["整理环境配置笔记"], "resources": [] },
+    { "day": 7, "title": "拓展学习", "content": ["了解Docker基础", "探索开发工具"], "resources": [] }
+  ]
+}

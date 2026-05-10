@@ -1,0 +1,14 @@
+{
+  "week": 6,
+  "title": "Vue3进阶与Tailwind CSS",
+  "description": "学习Vue Router、Pinia和Tailwind CSS",
+  "days": [
+    { "day": 1, "title": "Vue Router", "content": ["路由配置", "导航守卫", "动态路由"], "resources": [] },
+    { "day": 2, "title": "Pinia状态管理", "content": ["Store定义", "State、Getters、Actions", "<span class=\"text-red-bold\">重点</span>: 状态管理模式"], "resources": [] },
+    { "day": 3, "title": "Tailwind CSS入门", "content": ["Utility-first概念", "常用类名", "响应式设计"], "resources": [] },
+    { "day": 4, "title": "Tailwind进阶", "content": ["自定义配置", "主题定制", "插件使用"], "resources": [] },
+    { "day": 5, "title": "综合练习", "content": ["构建Vue3+Tailwind项目", "整合Router和Pinia"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["项目完善"], "resources": [] },
+    { "day": 7, "title": "前端最佳实践", "content": ["代码规范", "性能优化", "调试技巧"], "resources": [] }
+  ]
+}

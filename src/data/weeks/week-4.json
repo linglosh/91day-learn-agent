@@ -1,0 +1,14 @@
+{
+  "week": 4,
+  "title": "JavaScript编程基础",
+  "description": "学习JavaScript核心语法和现代特性",
+  "days": [
+    { "day": 1, "title": "JS基础语法", "content": ["变量、类型、运算符", "控制流程", "<span class=\"text-red-bold\">注意</span>: 动态类型特性"], "resources": [] },
+    { "day": 2, "title": "函数与作用域", "content": ["函数声明与表达式", "闭包概念", "箭头函数"], "resources": [] },
+    { "day": 3, "title": "对象与数组", "content": ["对象操作", "数组方法", "解构赋值"], "resources": [] },
+    { "day": 4, "title": "ES6+新特性", "content": ["let/const", "模板字符串", "Promise基础"], "resources": [] },
+    { "day": 5, "title": "JS实战", "content": ["编写实用工具函数", "小项目练习"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["回顾与整理"], "resources": [] },
+    { "day": 7, "title": "异步编程", "content": ["Promise深入", "async/await", "<span class=\"text-red-bold\">重点</span>: 异步流程控制"], "resources": [] }
+  ]
+}

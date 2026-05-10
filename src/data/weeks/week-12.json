@@ -1,0 +1,14 @@
+{
+  "week": 12,
+  "title": "全栈项目 - 开发实现",
+  "description": "编码实现完整的Agent应用",
+  "days": [
+    { "day": 1, "title": "后端开发", "content": ["搭建API服务", "数据库集成", "业务逻辑实现"], "resources": [] },
+    { "day": 2, "title": "Agent核心开发", "content": ["LLM集成", "Tools实现", "Memory系统"], "resources": [] },
+    { "day": 3, "title": "前端开发", "content": ["页面实现", "状态管理", "API调用"], "resources": [] },
+    { "day": 4, "title": "前后端联调", "content": ["接口对接", "数据流转", "<span class=\"text-red-bold\">重点</span>: 联调测试"], "resources": [] },
+    { "day": 5, "title": "功能完善", "content": ["边缘处理", "错误处理", "用户体验优化"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["代码审查"], "resources": [] },
+    { "day": 7, "title": "测试与优化", "content": ["功能测试", "性能优化", "安全检查"], "resources": [] }
+  ]
+}

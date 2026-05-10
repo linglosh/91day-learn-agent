@@ -1,0 +1,14 @@
+{
+  "week": 10,
+  "title": "Agent框架深入",
+  "description": "学习高级Agent模式和框架",
+  "days": [
+    { "day": 1, "title": "ReAct模式", "content": ["推理-行动循环", "ReAct Prompt设计", "<span class=\"text-red-bold\">重点</span>: 思考过程"], "resources": [] },
+    { "day": 2, "title": "多Agent系统", "content": ["Agent协作模式", "角色分工", "通信机制"], "resources": [] },
+    { "day": 3, "title": "RAG集成", "content": ["向量数据库", "文档检索", "知识增强"], "resources": [] },
+    { "day": 4, "title": "Agent评估", "content": ["评估指标", "测试方法", "迭代优化"], "resources": [] },
+    { "day": 5, "title": "AutoGPT类Agent", "content": ["自主Agent原理", "目标分解", "任务执行"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["架构设计思考"], "resources": [] },
+    { "day": 7, "title": "前沿探索", "content": ["最新论文", "开源项目", "社区动态"], "resources": [] }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "week": 7,
+  "title": "后端开发基础 - Node.js",
+  "description": "学习Express.js和RESTful API设计",
+  "days": [
+    { "day": 1, "title": "Node.js基础", "content": ["Node.js核心模块", "文件系统操作", "HTTP模块"], "resources": [] },
+    { "day": 2, "title": "Express.js入门", "content": ["Express应用创建", "路由配置", "中间件概念"], "resources": [] },
+    { "day": 3, "title": "RESTful API设计", "content": ["REST原则", "API设计规范", "<span class=\"text-red-bold\">重点</span>: 资源命名"], "resources": [] },
+    { "day": 4, "title": "数据库基础", "content": ["SQLite介绍", "数据库操作", "ORM概念"], "resources": [] },
+    { "day": 5, "title": "认证与授权", "content": ["JWT基础", "用户认证流程"], "resources": [] },
+    { "day": 6, "title": "休息", "content": ["复习与整理"], "resources": [] },
+    { "day": 7, "title": "后端项目实践", "content": ["构建简单API服务", "前后端联调"], "resources": [] }
+  ]
+}
